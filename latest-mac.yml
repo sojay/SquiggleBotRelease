@@ -1,0 +1,11 @@
+version: 0.6.2
+files:
+  - url: squigglebot-0.6.2-mac.zip
+    sha512: LMfFeGeCfnUlUcuomMcsrC3RqCCE+k3LKcGokSnxMCVHfF9Wv9d/FkNUxr4iykJMAyCwD9f4yufo8UZggFHwSQ==
+    size: 91854262
+  - url: squigglebot-0.6.2.dmg
+    sha512: 2BuhpXbDDPWlIM6dJqVxWIhTBBkRrn1Ge2hGueD9gKuhYlaklNEtyz/sVt4enwBEKeeI0T9k49Kb4YvZazK+BQ==
+    size: 95946837
+path: squigglebot-0.6.2-mac.zip
+sha512: LMfFeGeCfnUlUcuomMcsrC3RqCCE+k3LKcGokSnxMCVHfF9Wv9d/FkNUxr4iykJMAyCwD9f4yufo8UZggFHwSQ==
+releaseDate: '2022-01-12T07:03:54.373Z'
